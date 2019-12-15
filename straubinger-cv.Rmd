@@ -1,0 +1,187 @@
+---
+title: "CV"
+author: Simon Grundt Straubinger
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['css/styles.css', 'resume']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+Aside
+================================================================================
+
+![Foto](foto.png){width=80%}
+
+
+Kontaktinfo {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> simon.wismar@gmail.com
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/simon-straubinger](https://dk.linkedin.com/in/simon-straubinger)
+- <i class="fa fa-github"></i> [github.com/Straubinger](https://github.com/Straubinger)
+- <i class="fa fa-twitter"></i> [\@straubingerdk](https://twitter.com/straubingerdk)
+- <i class="fa fa-phone"></i> 2256 4154
+<!-- - <i class="fa fa-globe"></i> [simonstraubinger.wordpress.com](https://simonstraubinger.wordpress.com/) -->
+
+
+Databehandling {#skills}
+--------------------------------------------------------------------------------
+
+Professionel bruger af R (base, tidyverse, markdown), SQL og Excel
+
+Kendskab til Qlik, Stata og SPSS
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+R-pakken [pagedown](https://github.com/rstudio/pagedown) er anvendt til CV
+
+Sidst opdateret `r format(Sys.Date(),"%d/%m-%Y")`
+
+
+Main
+================================================================================
+
+
+Simon Grundt Straubinger {#title}
+--------------------------------------------------------------------------------
+
+
+Erfaring {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+
+### Dataanalytiker
+
+Sundheds- og Omsorgsforvaltningen, Københavns Kommune
+
+N/A
+
+nu - 2017
+
+- Udtræk, behandling og visualisering af data til ledelse, drift og forskning.
+- Automatisering af databehandling og -visualisering i R og Markdown.
+- Implementering af .NET-registreringssystem i samarbejde med ekstern leverandør herunder formulering af kravspec.
+- Bygge og vedligeholde QlikView-dashboards selv eller i samarbejde med ekstern leverandør.
+
+### Undervisningsassistent
+
+Institut for Statskundskab, Syddansk Universitet
+
+N/A
+
+januar 2014 - august 2013
+
+- Fag: *Samfundsvidenskabelig metode*
+
+
+### Forskningsassistent
+
+Institut for Statskundskab, Syddansk Universitet
+
+N/A
+
+2013 - 2010
+
+- Tilknyttet projektet *New Welfare States - New Measures* som havde til formål på baggrund af OECDs Tax-Benefit Model at udvikle nye metoder til at opgøre generøsiteten af velfærdsydelser i europæiske lande.
+- Arbejdede med statistiske mikrosimulationsmodeller, skrev working papers og akademiske artikler (jf. publikationsliste) samt deltog i konferencer.
+
+
+### Praktikant
+
+Epinion
+
+N/A
+
+januar 2013 - august 2012
+
+- Udvalgte projekter: Uddannelseservaluering for Grønlands Selvstyre, Kulturvaneundersøgelsen for Kulturministeriet, evaluering af KNR (Grønlands TV og Radio).
+
+
+Uddannelse {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Stud. Cand.scient.pol.
+
+Syddansk Universitet
+
+N/A
+
+2016 - 2011
+
+Udvalgte valgfag: *Anvendt videregående kvantitativ metode*, *Spørgeskemaundersøgelser i praksis*.
+
+Medlem af Studienævn for Statskundskab, studieåret 2011/2012.
+
+
+### BSc.scient.pol.
+
+Syddansk Universitet
+
+N/A
+
+2011 - 2008
+
+Bachelorprojekt: *Sundhed i verdensklasse? Institutionelle og socioøkonomiske faktorers betydning for sundhed i 16 europæiske velfærdsstater*. Skrevet i relation til faget *Comparative Welfare State Analysis*.
+
+
+### Studentereksamen, STX
+
+Odense Katedralskole
+
+N/A
+
+2008 - 2005
+
+Hovedfag: samfundsfag og matematik.
+
+
+
+Publikationer {data-icon=file .break-before-me}
+--------------------------------------------------------------------------------
+
+### Measurement Validity in Comparative Welfare State Research: The Case of Measuring Welfare State Generosity
+
+European Journal of Social Security 15(4): 321-340
+
+N/A
+
+2013
+
+Kvist, J.; **S.G. Straubinger** & A. Freundt
+
+
+### Do Tax-Benefit Packages Treat Families in the Same Manner When Unemployment Strikes? Using Micro-Simulation to Assess the Impact of Unemployment across Family Types and Incomes in Four Countries
+
+European Journal of Social Security 15(4): 379-401
+
+N/A
+
+2013
+
+Freundt, A.; **S.G. Straubinger** & J. Kvist 
+
+
+### Modernising social security for lone parents: avoiding fertility and unemployment traps when reforming social policy in Northern Europe
+
+Social Policy Review 25: Analysis and debate in social policy, 2013
+
+N/A
+
+2013
+
+Freundt, A.; **S.G. Straubinger** & J. Kvist
+
+
+### Mediernes formidling af meningsmålinger: Indholdsanalyse af folketingsvalg, 2005-2011
+
+Tidsskriftet Politik 3(15): 55-64
+
+N/A
+
+2012
+
+Larsen, E.G. & **S.G. Straubinger** 
