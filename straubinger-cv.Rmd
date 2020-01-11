@@ -18,6 +18,7 @@ Aside
 Kontaktinfo {#contact}
 --------------------------------------------------------------------------------
 
+- <i class="fa fa-home"></i> Lybækgade 6B, 2300 København S
 - <i class="fa fa-envelope"></i> simon.wismar@gmail.com
 - <i class="fa fa-linkedin"></i> [linkedin.com/in/simon-straubinger](https://dk.linkedin.com/in/simon-straubinger)
 - <i class="fa fa-github"></i> [github.com/Straubinger](https://github.com/Straubinger)
@@ -63,7 +64,7 @@ N/A
 nu - 2017
 
 - Udtræk, behandling og visualisering af data til ledelse, drift og forskning.
-- Automatisering af databehandling og -visualisering i R og Markdown.
+- Automatisering af databehandling og -visualisering i SQL, R og Markdown.
 - Implementering af .NET-registreringssystem i samarbejde med ekstern leverandør herunder formulering af kravspec.
 - Bygge og vedligeholde QlikView-dashboards selv eller i samarbejde med ekstern leverandør.
 
