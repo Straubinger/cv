@@ -18,7 +18,7 @@ Aside
 Kontaktinfo {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-home"></i> Lybækgade 6B, 2300 København S
+- <i class="fa fa-map-marker-alt"></i> København, Danmark
 - <i class="fa fa-envelope"></i> simon.wismar@gmail.com
 - <i class="fa fa-linkedin"></i> [linkedin.com/in/simon-straubinger](https://dk.linkedin.com/in/simon-straubinger)
 - <i class="fa fa-github"></i> [github.com/Straubinger](https://github.com/Straubinger)
