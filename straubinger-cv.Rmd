@@ -23,8 +23,8 @@ Kontaktinfo {#contact}
 - <i class="fa fa-linkedin"></i> [linkedin.com/in/simon-straubinger](https://dk.linkedin.com/in/simon-straubinger)
 - <i class="fa fa-github"></i> [github.com/Straubinger](https://github.com/Straubinger)
 - <i class="fa fa-twitter"></i> [\@straubingerdk](https://twitter.com/straubingerdk)
+- <i class="fa fa-globe"></i> [straubinger.netlify.app](https://straubinger.netlify.app/)
 - <i class="fa fa-phone"></i> +45 2256 4154
-<!-- - <i class="fa fa-globe"></i> [simonstraubinger.wordpress.com](https://simonstraubinger.wordpress.com/) -->
 
 
 Databehandling {#skills}
