@@ -30,9 +30,9 @@ Kontaktinfo {#contact}
 Databehandling {#skills}
 --------------------------------------------------------------------------------
 
-Professionel bruger af R (base, tidyverse, markdown), SQL og Excel
+Professionel bruger af R (base, tidyverse, markdown, Shiny), SQL, QlikView og Excel
 
-Kendskab til Qlik, Stata og SPSS
+Kendskab til Stata og SPSS
 
 
 Disclaimer {#disclaimer}
@@ -67,6 +67,7 @@ nu - 2017
 - Automatisering af databehandling og -visualisering i SQL, R og Markdown.
 - Implementering af .NET-registreringssystem i samarbejde med ekstern leverandør herunder formulering af kravspec.
 - Bygge og vedligeholde QlikView-dashboards selv eller i samarbejde med ekstern leverandør.
+- ML-projekt i samarbejde med DTU hvor formålet er at prædiktere forekomsten af forebyggelige indlæggelser ved brug af kommunale data.
 
 ### Undervisningsassistent
 
