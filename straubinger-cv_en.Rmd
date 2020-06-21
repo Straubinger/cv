@@ -1,0 +1,179 @@
+---
+title: "CV"
+author: Simon Grundt Straubinger
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['css/styles.css', 'resume']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+Aside
+================================================================================
+
+![Foto](foto.png){width=80%}
+
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-map-marker-alt"></i> Copenhagen, Denmark
+- <i class="fa fa-envelope"></i> simon.wismar@gmail.com
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/simon-straubinger](https://dk.linkedin.com/in/simon-straubinger)
+- <i class="fa fa-github"></i> [github.com/Straubinger](https://github.com/Straubinger)
+- <i class="fa fa-twitter"></i> [\@straubingerdk](https://twitter.com/straubingerdk)
+- <i class="fa fa-globe"></i> [straubinger.netlify.app](https://straubinger.netlify.app/)
+- <i class="fa fa-phone"></i> +45 2256 4154
+
+
+Data tools {#skills}
+--------------------------------------------------------------------------------
+
+Professional user of R (base, tidyverse, markdown, Shiny), SQL, QlikView and Excel
+
+Working knowledge of Stata and SPSS
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Made with the R package [pagedown](https://github.com/rstudio/pagedown)
+
+Last updated on `r Sys.Date()`
+
+
+Main
+================================================================================
+
+
+Simon Grundt Straubinger {#title}
+--------------------------------------------------------------------------------
+
+I am a data analyst with a special interest in data visualizations and a strong foundation in healthcare analytics. I have a solid working knowledge of R, SQL and various visualization tools such as QlikView and Shiny.
+
+I enjoy every aspect of the data analysis proces: from gathering, wrangling and cleaning data to applying analytical techniques and finally digging out and communicating the insights with a product tailored to the end-user be it management, operating staff or the general public.
+
+
+Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+
+### Data Analyst
+
+Health and Care Administration, City of Copenhagen
+
+N/A
+
+now - 2017
+
+- Cleaning, wrangling and visualizing data to be used by management, operating staff and researchers.
+- Implementation of automated data reporting using SQL, R and Markdown.
+- Development and maintenance of BI dashboards in QlikView - either selfdriven or with the assistance of consultants.
+- ML project in cooperation with DTU. The goal is to use municipal data to predict preventable hospital admissions in the home care setting.
+
+### Teaching Assistant
+
+Department of Political Science, University of Southern Denmark
+
+N/A
+
+January 2014 - August 2013
+
+- Course: *Quantitative and Qualitative Social Science Methods*
+
+
+### Research Assistant
+
+Department of Political Science, University of Southern Denmark
+
+N/A
+
+2013 - 2010
+
+- Part of the research project *New Welfare States - New Measures*. The goal was to establish new measures and tap into the nature of ongoing welfare reforms and their diverse impact by use of the OECD Tax-Benefit Model.
+- In my work I applied the OECD Tax-Benefit Model, published working and academic papers in collaboration with the research team (cf. *Publications* below), and participated in international conferences to present the work.
+
+
+### Intern
+
+Epinion
+
+N/A
+
+January 2013 - August 2012
+
+- Participated in various tasks at the firm including quantitative and qualitative data collection and analysis as well as preparation and presentation of the final product to the customers.
+
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### MSc student of Political Science
+
+University of Southern Denmark
+
+N/A
+
+2016 - 2011
+
+Selected courses: *Applied Advanced Quantitative Methods*; *Questionnaire Surveys*.
+
+
+### BSc in Political Science
+
+University of Southern Denmark
+
+N/A
+
+2011 - 2008
+
+Bachelor project: *World-Class Health Care? The influence of institutional and socioeconomic factors on health in 16 European welfare states*.
+
+
+
+Publications {data-icon=file .break-before-me}
+--------------------------------------------------------------------------------
+
+### Measurement Validity in Comparative Welfare State Research: The Case of Measuring Welfare State Generosity
+
+European Journal of Social Security 15(4): 321-340
+
+N/A
+
+2013
+
+Kvist, J.; **S.G. Straubinger** & A. Freundt
+
+
+### Do Tax-Benefit Packages Treat Families in the Same Manner When Unemployment Strikes? Using Micro-Simulation to Assess the Impact of Unemployment across Family Types and Incomes in Four Countries
+
+European Journal of Social Security 15(4): 379-401
+
+N/A
+
+2013
+
+Freundt, A.; **S.G. Straubinger** & J. Kvist 
+
+
+### Modernising social security for lone parents: avoiding fertility and unemployment traps when reforming social policy in Northern Europe
+
+Social Policy Review 25: Analysis and debate in social policy, 2013
+
+N/A
+
+2013
+
+Freundt, A.; **S.G. Straubinger** & J. Kvist
+
+
+### Mediernes formidling af meningsmålinger: Indholdsanalyse af folketingsvalg, 2005-2011
+
+Tidsskriftet Politik 3(15): 55-64
+
+N/A
+
+2012
+
+Larsen, E.G. & **S.G. Straubinger** 
