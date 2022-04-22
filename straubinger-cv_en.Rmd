@@ -32,7 +32,7 @@ Data tools {#skills}
 
 Professional user of R (base, tidyverse, markdown, Shiny), SQL, QlikView and Excel
 
-Working knowledge of Stata and SPSS
+Working knowledge of Stata, SPSS and Python.
 
 
 Disclaimer {#disclaimer}
@@ -68,8 +68,9 @@ N/A
 now - 2017
 
 - Cleaning, wrangling and visualizing data to be used by management, operating staff and researchers.
-- Implementation of automated data reporting using SQL, R and Markdown.
+- Implementation of automated data reporting using SQL, R and Markdown. E.g. used for the daily reporting of cases in the City of Copenhagen during the COVID-19 pandemic.
 - Development and maintenance of BI dashboards in QlikView - either selfdriven or with the assistance of consultants.
+- Health policy analyses using both in-house municipality data and national data accessed via the research servers at Statistics Denmark.
 - ML project in cooperation with DTU. The goal is to use municipal data to predict preventable hospital admissions in the home care setting.
 
 ### Teaching Assistant
@@ -132,7 +133,7 @@ Bachelor project: *World-Class Health Care? The influence of institutional and s
 
 
 
-Publications {data-icon=file .break-before-me}
+Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### Measurement Validity in Comparative Welfare State Research: The Case of Measuring Welfare State Generosity

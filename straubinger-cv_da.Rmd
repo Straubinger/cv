@@ -32,7 +32,7 @@ Databehandling {#skills}
 
 Professionel bruger af R (base, tidyverse, markdown, Shiny), SQL, QlikView og Excel
 
-Kendskab til Stata og SPSS
+Kendskab til Stata, SPSS og Python
 
 
 Disclaimer {#disclaimer}
@@ -64,9 +64,10 @@ N/A
 nu - 2017
 
 - Udtræk, behandling og visualisering af data til ledelse, drift og forskning.
-- Automatisering af databehandling og -visualisering i SQL, R og Markdown.
-- Implementering af .NET-registreringssystem i samarbejde med ekstern leverandør herunder formulering af kravspec.
+- Automatisering af databehandling og -visualisering i SQL, R og Markdown. F.eks. anvendt til den daglige kommunale rapportering af smitte under COVID-19 pandemien.
+- Implementering af .NET-registreringssystem i samarbejde med ekstern leverandør herunder formulering af kravspecifikation, kvalitetssikring af leverancer samt løbende tests med brugerne.
 - Bygge og vedligeholde QlikView-dashboards selv eller i samarbejde med ekstern leverandør.
+- Analyser på det sundhedspolitiske område med anvendelse af egne såvel som data tilgået via Danmarks Statistiks forskervice.
 - ML-projekt i samarbejde med DTU hvor formålet er at prædiktere forekomsten af forebyggelige indlæggelser ved brug af kommunale data.
 
 ### Undervisningsassistent
@@ -130,19 +131,19 @@ N/A
 Bachelorprojekt: *Sundhed i verdensklasse? Institutionelle og socioøkonomiske faktorers betydning for sundhed i 16 europæiske velfærdsstater*. Skrevet i relation til faget *Comparative Welfare State Analysis*.
 
 
-### Studentereksamen, STX
+<!-- ### Studentereksamen, STX -->
 
-Odense Katedralskole
+<!-- Odense Katedralskole -->
 
-N/A
+<!-- N/A -->
 
-2008 - 2005
+<!-- 2008 - 2005 -->
 
-Hovedfag: samfundsfag og matematik.
+<!-- Hovedfag: samfundsfag og matematik. -->
 
 
 
-Publikationer {data-icon=file .break-before-me}
+Publikationer {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### Measurement Validity in Comparative Welfare State Research: The Case of Measuring Welfare State Generosity
